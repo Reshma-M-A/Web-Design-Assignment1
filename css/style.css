@@ -1,6 +1,8 @@
-﻿body
-{
+﻿
+main {
+    margin-top: 60px;
 }
+
 .niconne {
     font-family: 'Niconne', cursive;
     font-size: 65px;
