@@ -3,6 +3,15 @@ main {
     margin-top: 60px;
 }
 
+.intro {
+    height: 200px;
+    font-size: 36px;
+    text-align: center;
+    padding: 70px;
+    background: rgba(255, 255, 255, 0.0);
+}
+
+
 .niconne {
     font-family: 'Niconne', cursive;
     font-size: 65px;
