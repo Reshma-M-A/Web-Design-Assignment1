@@ -11,12 +11,22 @@ main {
     background: rgba(255, 255, 255, 0.0);
 }
 
+.quote {
+    /*height: 200px;*/
+    font-size: 20px;
+    text-align: center;
+    padding: 0px;
+    color: white;
+    background: rgba(255, 255, 255, 0.0);
+}
 
 .niconne {
     font-family: 'Niconne', cursive;
     font-size: 65px;
     text-align: center;
     font-weight: 400;
+    color: yellow;
+    
 }
 
 .background {
