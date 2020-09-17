@@ -9,3 +9,12 @@ main {
     text-align: center;
     font-weight: 400;
 }
+
+.background {
+    height: 600px;
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
