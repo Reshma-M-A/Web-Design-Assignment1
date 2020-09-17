@@ -26,7 +26,14 @@ main {
     text-align: center;
     font-weight: 400;
     color: yellow;
-    
+}
+
+.welcomeToNiconne {
+    font-family: 'Niconne', cursive;
+    font-size: 65px;
+    text-align: left;
+    font-weight: 400;
+    color: blue;
 }
 
 .background {
