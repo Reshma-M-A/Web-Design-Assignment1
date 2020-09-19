@@ -44,3 +44,8 @@ main {
     background-attachment: fixed;
 }
 
+.border {
+    border: none;
+    height: 2px;
+    background-color: #f8bd08;
+}
