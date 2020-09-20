@@ -70,3 +70,56 @@ main {
     display: block;
     padding: 10px;
 }
+
+.bg {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height:auto;
+}
+
+@media (min-width: 768px) {
+    .q1 {
+        padding: 10%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .q1 {
+        padding: 15%;
+    }
+}
+
+@media (max-width: 576px) {
+    .q1 {
+        padding: 25%;
+    }
+}
+
+figure {
+    height: 500px;
+    width: 500px;
+    position: relative;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+figcaption {
+    background: rgba(255, 0, 255, 0.4);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+    text-align: center;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+    padding-top: 30%;
+    visibility: hidden;
+}
+figure:hover > figcaption {
+    visibility: visible;
+}
+
