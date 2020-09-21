@@ -37,7 +37,7 @@ main {
 }
 
 .background {
-    height: 600px;
+    height: 400px;
     background-image: url(../images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
