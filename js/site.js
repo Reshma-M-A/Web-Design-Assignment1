@@ -124,7 +124,7 @@ function addBel(map) {
 function addJewel(map) {
     // Canberra Museum and Gallery
     var bluGinger =
-        new google.maps.LatLng(-35.2759, 149.1324);
+        new google.maps.LatLng(-35.2759, 149.1320);
     var markerbluGinger = new google.maps.Marker({
         position: bluGinger,
     });
@@ -154,7 +154,7 @@ function addJewel(map) {
 function addChair(map) {
     // Canberra Museum and Gallery
     var bluGinger =
-        new google.maps.LatLng(-35.2759, 149.1324);
+        new google.maps.LatLng(-35.2759, 149.1337);
     var markerbluGinger = new google.maps.Marker({
         position: bluGinger,
     });
