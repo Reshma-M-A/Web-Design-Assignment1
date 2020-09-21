@@ -131,3 +131,32 @@ figure:hover > figcaption {
     text-align:left
 }
 
+
+h1 {
+    text-align: center;
+    color: #a8a8a8;
+    height: 200px;
+    font-size: 36px;
+    padding: 70px;
+    background: rgba(255, 255, 255, 0.0);
+}
+
+form {
+    max-width: 600px;
+    text-align: center;
+    margin: 20px auto;
+    outline: 0;
+    padding: 1em;
+    display: block;
+    width: 100%;
+    margin-top: 1em;
+    font-family: 'Merriweather', sans-serif;
+    resize: none;
+}
+
+
+
+
+textarea {
+    height: 126px;
+}
